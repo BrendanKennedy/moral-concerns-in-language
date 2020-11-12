@@ -110,3 +110,7 @@ venv.bak/
 __pycache__
 output/lda_model/*
 data
+.Rproj.user
+*.Rproj
+output/figures
+
